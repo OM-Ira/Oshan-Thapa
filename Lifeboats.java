@@ -129,6 +129,7 @@ import java.util.Scanner;
 				System.out.println("The number of people that drowned = O ");
 				System.out.println("The number of people that would be rescued if the available lifeboats were filled = " + numberOfPeopleRescued);
 				System.out.printf("The percentage of people that would be rescued if the available lifeboats were filled = =%.2f%% ", totalPeopleRescuedPercent);
+				System.out.println("My name is Oshan")
 			}
 			input.close();
 		}
